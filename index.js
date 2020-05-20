@@ -36,7 +36,7 @@ let strings=[];
 function exerciseDog (dogName, dogBreed)
 {
   for (let i=0; i<routine.length ; i++)
-  {strings[i]=routine[i](dogName,dogBreed);
-  return(strings);}
+  strings[i]=routine[i](dogName,dogBreed);
+  return(strings);
 }
 //console.log(exerciseDog(dogName,dogBreed));
