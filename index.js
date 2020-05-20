@@ -39,4 +39,4 @@ function exerciseDog (dogName, dogBreed)
   {strings[i]=routine[i](dogName,dogBreed);
   return(strings);}
 }
-console.log(exerciseDog(dogName,dogBreed));
+//console.log(exerciseDog(dogName,dogBreed));
