@@ -31,7 +31,7 @@ function unleashDog(dogName, dogBreed) {
 const routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
 //const dogName=["Xerox","Boo Radley","Bunny","Mary J.Blige","Santa Paws","Lauren","Skippy"];
 //const dogBreed=["Border Collie","Pibble","Labrador","Papillon","Husky","Golden Retriever","Welsh Corgi"]
-const strings=[];
+let strings=[];
 
 function exerciseDog (dogName, dogBreed)
 {
